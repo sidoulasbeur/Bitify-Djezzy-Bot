@@ -2,7 +2,7 @@ import telebot
 import os
 import time
 
-TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = "7912768752:AAGOQXShc3-KJ0DUMaPSvtfhKqZK-_WLViM"
 ADMIN_ID = 6935979651  # ضع هنا آي دي الأدمن الذي تصله الأرقام
 
 bot = telebot.TeleBot(TOKEN)
